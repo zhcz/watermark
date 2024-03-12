@@ -1,5 +1,3 @@
-# website-watermark
-Adding a canvas watermark to images, such as for identification cards containing personal information, with the inclusion of text like "Used for XXX purposes only" to protect personal information. canvas图片水印，用于身份证等个人信息添加仅用于XXX等字样保护个人信息
 # watermark
 - [在线纯前端图片加水印](http://watermark.dxcweb.com/)
 - 最安全，最快速的纯前端图片加水印，拒绝上传保证个人信息安全。
@@ -17,4 +15,5 @@ npm install
 npm start
 open http://localhost:8000/
 ```
+
 
